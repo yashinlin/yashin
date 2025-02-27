@@ -12,5 +12,3 @@ Seasoned evaluator with extensive experience measuring, evaluating and improving
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yashinlin)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
